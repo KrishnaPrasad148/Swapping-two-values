@@ -23,13 +23,16 @@ End the program
 # Register Number: 212223230108
 ```
 ```
-a = input()
-b = input()
+a = input("Enter the first value : ")
+b = input("Enter the second value : ")
 temp = a
 a = b
 b = temp
 print("Swapped values are:",a,b)
 ```
+### Output
+![image](https://github.com/KrishnaPrasad148/Swapping-two-values/assets/147332763/8f6bb5e7-aa4d-4bdc-868e-f10a9b46a071)
+
 
 
 ## RESULT:
