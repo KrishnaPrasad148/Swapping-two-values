@@ -19,7 +19,16 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-iii
+# Developed by: S.Krishna Prasad
+# Register Number: 212223230108
+```
+```
+a = input()
+b = input()
+temp = a
+a = b
+b = temp
+print("Swapped values are:",a,b)
 ```
 
 
