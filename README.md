@@ -31,7 +31,7 @@ b = temp
 print("Swapped values are:",a,b)
 ```
 ### Output
-![image](https://github.com/KrishnaPrasad148/Swapping-two-values/assets/147332763/8f6bb5e7-aa4d-4bdc-868e-f10a9b46a071)
+![image](https://github.com/KrishnaPrasad148/Swapping-two-values/assets/147332763/e331794f-8306-4012-a507-cae6f0e0a0cf)
 
 
 
